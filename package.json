@@ -1,0 +1,16 @@
+{
+  "name": "udacious",
+  "version": "0.0.1",
+  "description": "Electron-powered desktop apps for Udacity",
+  "main": "index.js",
+  "repository": "git@github.com:allanbreyes/udacious.git",
+  "author": "Allan Reyes <allanbreyes@users.noreply.github.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "nativefier": "nativefier"
+  },
+  "devDependencies": {
+    "nativefier": "^7.6.2"
+  }
+}
