@@ -8,6 +8,8 @@ Udacious :v:
 > NOTE: This project is not affiliated with, funded, or associated with
 > Udacity, Inc.
 
+![Screenshot](screenshot.png)
+
 ## Installation
 
 1. Download the latest [release](/releases) for your operating system
