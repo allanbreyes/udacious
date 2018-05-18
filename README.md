@@ -12,7 +12,7 @@ Udacious :v:
 
 ## Installation
 
-1. Download the latest [release](/releases) for your operating system
+1. Download the latest [release](https://github.com/allanbreyes/udacious/releases) for your operating system
 1. Extract the archive
 1. Locate and run the executable, e.g. `Udacious.exe`
 1. Sign in and get your learn on!
